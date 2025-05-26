@@ -11,7 +11,7 @@ from aiogram.filters import Command
 from aiogram.client.default import DefaultBotProperties
 
 # === Configuration ===
-TOKEN = "7673615517:AAHC_RCOOM-1pCUmvP2Bqm83-V9aA2XFhW8"
+TOKEN = "7811371593:AAEgO1hwifgODXfowvHUVHgqd0xzIeX-aD4"
 ADMIN_IDS = [6882674372]
 AUTHORIZED_USERS = set(ADMIN_IDS)
 VPS_LIST = [
